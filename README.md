@@ -15,11 +15,10 @@
 <!-- Add link to your picture -->
 
 ![alt text](https://media-exp1.licdn.com/dms/image/C5603AQF5RRHGIjAH4w/profile-displayphoto-shrink_800_800/0/1622173950323?e=1660780800&v=beta&t=ugXfro_TaarK-vtGCP9FY-RFW4wa4--pu9WSu-soE2U)
-https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
 
 <!-- Add your details -->
 
-I am __Jemelyn__, a seasoned analytics professional with ~10 years of progressive experience in business intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I am __Jemelyn__, a seasoned analytics professional with ~10 years of progressive experience in business intelligence. I have contributed as an analyst developer for Marketing, Finance and Business Development functions at top-notch clients. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
 
 
 <!-- Add link to the sections -->
